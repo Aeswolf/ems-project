@@ -1,0 +1,3 @@
+GET http://localhost:4000/faculty
+
+# DELETE http://localhost:4000/faculty/2213f6c8-52ce-48cf-b5e4-35959054188d
